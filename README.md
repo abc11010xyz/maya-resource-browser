@@ -2,6 +2,17 @@
 
 ![Maya Resource Browser demo](https://user-images.githubusercontent.com/90312092/133942055-21aa2578-2a74-48a2-8af0-84c8e7cccfcb.gif)
 
+`#cmds`
+`#resourceManager`
+`#QListWidget`
+`#QThread`
+`#QTimer`
+`#QImage`
+`#QPixmap`
+`#QIcon`
+`#keyPressEvent`
+`#setStyleSheet`
+
 ## Usage
 ```python
 from resourcebrowserui import resourcebrowser
